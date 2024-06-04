@@ -11,3 +11,21 @@ Welcome to the repository for the Gemini-Pro Bot, a cutting-edge Voice/chat-bot 
 **🧵 Multi-threaded Execution:** Utilizes a **ThreadPoolExecutor** to manage voice recognition and text-to-speech functionalities efficiently without blocking the main thread.
 
 **💻 Dynamic UI:** Features a clean and interactive user interface using **Streamlit**, which includes buttons for text search, asking questions via microphone, and clearing text.
+
+
+
+
+## Snapshot of the application's backend code in an IDE, showing the Python script responsible for shipment tracking
+![Snapshot of the application's backend code in an IDE, showing the Python script responsible for shipment tracking](Snapshots/1.png)
+
+## Initial interface of the Smart Shipment Tracker application on Streamlit, displaying the file upload feature for tracking numbers
+![Initial interface of the Smart Shipment Tracker application on Streamlit, displaying the file upload feature for tracking numbers](Snapshots/2.png)
+
+## Updated interface showing real-time delivery status updates for various shipments after processing tracking numbers
+![Updated interface showing real-time delivery status updates for various shipments after processing tracking numbers](Snapshots/3.png)
+
+## Snapshot of the application's backend code in an IDE, showing the Python script responsible for shipment tracking
+![Snapshot of the application's backend code in an IDE, showing the Python script responsible for shipment tracking](Snapshots/4.png)
+
+## Initial interface of the Smart Shipment Tracker application on Streamlit, displaying the file upload feature for tracking numbers
+![Initial interface of the Smart Shipment Tracker application on Streamlit, displaying the file upload feature for tracking numbers](Snapshots/5.png)
