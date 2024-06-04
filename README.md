@@ -14,7 +14,7 @@ Welcome to the repository for the Gemini-Pro Bot, a cutting-edge Voice/chat-bot 
 
 
 
-# Initial User Interface of Tosief's Gemini-Pro Bot
+
 ## The main landing page of Tosief’s Gemini-Pro Bot, showcasing an elegant and futuristic design. This interface invites users to interact with the bot, equipped with options for text search or voice queries, enhancing accessibility and user engagement.
 ![Initial User Interface of Tosief's Gemini-Pro Bot](Snapshots/1.png)
 
