@@ -1,4 +1,4 @@
-🎙️💬 Tosief's Gemini-Pro Bot 🤖🌟
+**🎙️💬 Tosief's Gemini-Pro Bot 🤖🌟**
 
 Welcome to the repository for the Gemini-Pro Bot, a cutting-edge Voice/chat-bot powered by Google's advanced Gemini Pro AI, designed to facilitate interactive and dynamic communication through text and voice. This bot is part of an innovative project developed using Streamlit, aimed at enhancing user experience and accessibility.
 
