@@ -12,7 +12,7 @@ Welcome to the repository for the Gemini-Pro Bot, a cutting-edge Voice/chat-bot 
 
 **💻 Dynamic UI:** Features a clean and interactive user interface using **Streamlit**, which includes buttons for text search, asking questions via microphone, and clearing text.
 
-** 📸 Check out the **snapshots** below to see the application in action and get a feel for the user interface and features!**
+** 📸 Check out the **snapshots** below to see the application in action and get a feel for the user interface and features! **
 
 
 
